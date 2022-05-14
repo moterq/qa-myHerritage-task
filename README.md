@@ -1,4 +1,4 @@
-# qa-web-challenge-ryanair_matvei_semenuyk
+# qa-task-MyHerritage
 
 Author: Matvei Semenuyk
 
